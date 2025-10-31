@@ -34,7 +34,7 @@
 
 1. Clone or download this repository  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/serverTagRotator.git
+   git clone https://github.com/n0tluc/serverTagRotator.git
    ```
 
 2. Move the plugin folder into your Vencord user plugins directory:
